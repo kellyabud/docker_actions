@@ -1,5 +1,5 @@
 
-name: Docker_actions
+name: Docker CI
 
 on:
   push:
