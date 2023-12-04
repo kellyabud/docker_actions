@@ -1,4 +1,11 @@
 # Projeto no Github para testes de coleção no Postman com Docker e GitHub Actions.
+
+<div align="center">
+<img src="https://github.com/kellyabud/docker_actions/assets/135430840/0a2ab55d-0158-45c6-a68f-c9d2903eaf82" />
+</div>
+</br>
+
+
 # Instale o Docker Desktop no seu sistema e siga as etapas apropriadas para o seu sistema operacional.
 # npm init -y
 # npm install -g newman
